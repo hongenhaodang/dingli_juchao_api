@@ -1,0 +1,1 @@
+java -jar securities-web-boss.jar --spring.config.location=/config/securities-web-boss/application-prod.yml
